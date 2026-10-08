@@ -1,5 +1,12 @@
 # 🕰️ CATHEU Demo — versões
 
+## 2.4.1-beta — 08/10/2026
+
+- Correção da navegação pelo logo ao voltar para o panorama.
+- Exibição mais clara da versão beta no rodapé.
+
+Demo e sistema completo recebem correções independentes; seus números podem divergir quando apenas uma edição muda.
+
 ## 2.4.0-beta — 08/10/2026
 
 - Primeira demonstração pública, alinhada à versão do produto completo.

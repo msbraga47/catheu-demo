@@ -10,7 +10,7 @@
 
 [📖 Conheça a experiência](docs/APRESENTACAO.md) · [✉️ Conversar com Matheus](mailto:msbraga47@gmail.com) · [🕰️ Versões](CHANGELOG.md)
 
-**Beta 2.4.0 · Demonstração pública com dados fictícios**
+**Beta 2.4.1 · Demonstração pública com dados fictícios**
 
 </div>
 
