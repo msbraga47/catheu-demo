@@ -1,5 +1,9 @@
 # 🕰️ CATHEU Demo — versões
 
+## 2.4.2-beta — 08/10/2026
+
+- Carregamento dos arquivos por versão, evitando cache antigo ao atualizar pelo popup.
+
 ## 2.4.1-beta — 08/10/2026
 
 - Correção da navegação pelo logo ao voltar para o panorama.
