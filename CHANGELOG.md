@@ -1,5 +1,9 @@
 # 🕰️ CATHEU Demo — versões
 
+## 2.4.3-beta — 08/10/2026
+
+- Navegação retorna ao início da nova tela após clicar nos atalhos.
+
 ## 2.4.2-beta — 08/10/2026
 
 - Carregamento dos arquivos por versão, evitando cache antigo ao atualizar pelo popup.
