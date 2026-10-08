@@ -1,0 +1,1 @@
+export const RELEASE={version:'2.4.0-beta',date:'2026-10-08',edition:'demo',history:[{version:'2.4.0-beta',date:'2026-10-08',title:'Primeira demonstração pública',changes:['Panorama com valores fictícios.','Movimentações simples, busca, filtros e despesas por categoria.','Contato para recursos completos e histórico discreto de versões.']} ]};
